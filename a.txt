@@ -1,5 +1,6 @@
 first commit
 second commit
+updated in brach feature-2`
 third commit
 fouth commit
 
